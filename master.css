@@ -1,0 +1,17 @@
+.gal{
+  margin-top: 0.5em;
+  margin-bottom: 1em;
+}
+
+.ht{
+  height: inherit;
+  width: inherit;
+}
+
+body{
+  background-color: #FDFF78;
+}
+
+.form-group{
+  margin-top: 2rem;
+}
